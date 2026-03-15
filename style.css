@@ -3842,7 +3842,7 @@ header, .header { /* вибери свій клас хедера */
     top: 0;
     left: 0;
     width: 100vw !important;
-    height: 70vh !important;
+  
     z-index: 1001;
 }
 
@@ -4431,14 +4431,11 @@ header, .header { /* вибери свій клас хедера */
         position: fixed !important;
         top: 0 !important;
         right: -100% !important;
-        width: 320px !important; /* Збільшили ширину меню */
-        height: 100vh !important;
         background: #ffffff !important; /* Білий фон, щоб текст було видно */
         display: flex !important;
         flex-direction: column !important;
         padding: 100px 40px !important; /* Більше відступів всередині */
         transition: 0.5s cubic-bezier(0.4, 0, 0.2, 1) !important;
-        z-index: 2100 !important;
         box-shadow: -10px 0 30px rgba(0,0,0,0.2) !important;
     }
 
