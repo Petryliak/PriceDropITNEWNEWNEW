@@ -4472,3 +4472,34 @@ header, .header { /* вибери свій клас хедера */
         backdrop-filter: blur(4px) !important; /* Легке розмиття фону */
     }
 }
+
+.cardj.peach {
+    background-color: rgba(248, 156, 160, 1);
+}
+
+.cardj.peach ~ a .btnj {
+    background-color: rgba(248, 156, 160, 1) !important;
+    color: white !important; 
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.cardj.peach ~ a:hover .btnj {
+    background-color: #8A2BE2 !important; 
+}
+.cardj.peach ~ .btnj {
+    background-color: rgba(248, 156, 160, 1) !important;
+    color: white !important; 
+    border: none;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+.cardj.peach ~ .btnj:hover {
+    background-color: rgba(102, 107, 252, 1) !important; 
+}
+
+.cardj.peach ~ .btnj:active {
+    background-color: rgba(102, 107, 252, 1) !important; 
+}
