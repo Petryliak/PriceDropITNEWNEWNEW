@@ -4474,11 +4474,11 @@ header, .header { /* вибери свій клас хедера */
 }
 
 .cardj.peach {
-    background-color: rgba(248, 156, 160, 1) !important; 
+    background-color: rgba(87, 192, 244, 1) !important; 
 }
 
 .cardj.peach ~ a .btnj {
-    background-color: rgba(248, 156, 160, 1) !important;
+    background-color: rgba(87, 192, 244, 1) !important;
     color: white !important; 
     border: none;
     cursor: pointer;
@@ -4489,7 +4489,7 @@ header, .header { /* вибери свій клас хедера */
     background-color: #8A2BE2 !important; 
 }
 .cardj.peach ~ .btnj {
-    background-color: rgba(248, 156, 160, 1) !important;
+    background-color: rgba(87, 192, 244, 1)) !important;
     color: white !important; 
     border: none;
     transition: all 0.3s ease;
