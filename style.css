@@ -4474,7 +4474,7 @@ header, .header { /* вибери свій клас хедера */
 }
 
 .cardj.peach {
-    background-color: rgba(248, 156, 160, 1);
+    background-color: rgba(248, 156, 160, 1) !important; 
 }
 
 .cardj.peach ~ a .btnj {
