@@ -1567,7 +1567,7 @@ html, body {
 }
 
 .card-peach  {
-   background-color: rgba(208, 185, 163, 1);
+   background-color: rgba(208, 185, 163, 1) !important;
 }
 .card-peach + .pdrop-btn-more {
     background-color: rgba(208, 185, 163, 1) !important;
