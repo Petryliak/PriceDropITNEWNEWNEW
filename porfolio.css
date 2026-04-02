@@ -1567,10 +1567,10 @@ html, body {
 }
 
 .card-peach  {
-   background-color: rgba(248, 156, 160, 1);
+   background-color: rgba(87, 192, 244, 1);
 }
 .card-peach + .pdrop-btn-more {
-    background-color: rgba(248, 156, 160, 1) !important;
+    background-color: rgba(87, 192, 244, 1) !important;
     color: white !important; 
     border: none;
 }
